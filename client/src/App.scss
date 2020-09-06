@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+}
+
+.facebook-button{
+  padding:10px 10px 10px 0px;
+  font-weight: 500; 
+  background-color: rgb(255, 255, 255); 
+  display: inline-flex; 
+  align-items: center; 
+  color: rgba(0, 0, 0, 0.54); 
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 2px 2px 0px, rgba(0, 0, 0, 0.24) 0px 0px 1px 0px; 
+  border-radius: 2px; 
+  border: 1px solid transparent; 
+  font-size: 15px; 
+  font-family: Roboto, sans-serif;
+}
+
+.App-Container{
+  width:30% !important;
+}
+
+.App-logo {
+  height: 20vmin;
+  pointer-events: none;
+}
+
+.signup-button{
+  width: 100% !important;
+}
+
+
